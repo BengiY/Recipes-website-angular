@@ -1,0 +1,29 @@
+.RecipeItem
+{
+   font-size: 25px;
+   text-align: center;
+   font-family: choco;
+   color: white;
+   margin-top: 50px;
+   text-align: right;
+   margin-right: 80px;
+}
+b{
+    
+   font-family: choco;
+   color: white;
+}
+input
+{
+    background-color: white;
+    text-align: center;
+    font-family: choco;
+    font-size: larger;
+    color: black;
+    border:solid 5px rgb(253, 100, 100) ; 
+}
+ol,ul{direction: rtl;}
+li{margin-left:0px;}
+
+
+

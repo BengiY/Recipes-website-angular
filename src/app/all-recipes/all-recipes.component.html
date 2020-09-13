@@ -1,0 +1,51 @@
+<body>
+<div style="text-align: right;font-family:choco ;"> 
+<b style="font-size: 25px;color: white;">{{u}}:משתמש נוכחי</b>
+</div>
+
+  <div class="frm" >
+    <h1>:אפשרויות סינון</h1>
+    <p>: שם מתכון</p>
+    <input id="n"  [(ngModel)]="S.NameRecipe" type="text" placeholder="הקש שם לסינון">
+    <br>
+    <br>
+    <p>: משך הכנה</p>
+    <input id="t" [(ngModel)]="S.Time" type="text">
+    <br>
+    <br>
+    <p>: קטגוריה</p>
+    <select [(ngModel)]="S.CategoryRecipe.CategoryName" (ngModelChange)="FindCategory()">
+      <option style="font-family: cursive;" *ngFor="let x of arrCategory" >{{x.CategoryName}}</option>
+    </select>
+     <br>
+     <br>
+     <input type="button" value="הקש לסינון" (click)="onclick()">
+     <br>
+     <br>
+     <input type="button" value="בטל סינון" (click)="onclickB()">
+     <br>
+  </div>
+  <br>
+  <h1 *ngIf="flag1">
+    <a href="/register"> הרשם</a>
+    או <a href="/login"> התחבר</a>
+    על מנת לראות את פרטי המתכון  
+  </h1>
+<!-- <input type="button" value="הוספת מתכון" (click)="addRecipe()"> -->
+<h1 *ngIf="view" >:( אווופס לא נמצאו תוצאות לחיפוש המבוקש</h1>
+<app-recipe-item style="float: left;margin-right: 20px;margin-left: 10px;  margin-bottom: 20px;" *ngFor="let item of arr" [myRecipeNow]="item"></app-recipe-item>
+<!-- <img src="../../assets/ZKZg.gif" height="100px" width="100px"> -->
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+

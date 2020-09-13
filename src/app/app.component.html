@@ -1,0 +1,31 @@
+<html>
+  <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+ 
+   <!-- *ngIf="flag"  -->
+    <ul class="nav navbar-nav">
+      <li  [routerLinkActive]="['active']"><a href="#" routerLink="all">לכל המתכונים<img src="../../assets/tispoon.png" height="20" width="20"/></a></li>
+      <li [routerLinkActive]="['active']"><a  routerLink="addrecipe">להוספת מתכון<img src="../../assets/add.png" height="20" width="20"/></a></li>
+      <li [routerLinkActive]="['active']"><a routerLink="logout">התנתקות<img src="../../assets/logout.png" height="20" width="20"/></a></li>
+      <li [routerLinkActive]="['active']"><a routerLink="login">התחברות<img src="../../assets/boy-256.png" height="20" width="20"/></a></li>
+      <li [routerLinkActive]="['active']"><a  routerLink="register">הרשמה<img src="../../assets/edit-256.png" height="20" width="20"/></a></li>
+    </ul> 
+    <div class="navbar-header">
+      <a class="navbar-brand"  routerLink="all">יאמי<img src="../../assets/foolish-icon.png" height="40" width="40"/></a>
+    </div>
+  </div>
+</nav>
+
+
+<router-outlet></router-outlet>
+</body>
+</html>

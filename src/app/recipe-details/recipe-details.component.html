@@ -1,0 +1,59 @@
+
+<body class="RecipeItem">
+    
+<a *ngIf="flag" routerLink="/editrecipe/{{r.NameRecipe}}" style="font-size: 20px;font-family: choco;color: white;">הקש לעריכת המתכון שהעלת</a> 
+
+<!-- <input (click)="navigateToEdit()" *ngIf="flag" type="button" style="color: black; margin-left: 1320px; font-family: choco;" value="הקש לעריכת המתכון שהעלת"> -->
+<div *ngIf="!flag" style="color: red;">! המתכון איננו שלך ולכן לא ניתן לעריכה</div>
+<!-- <app-edit-recipe   [rE]="r"></app-edit-recipe> -->
+<!-- <app-edit-recipe [rE]="r"></app-edit-recipe> -->
+<br>
+    <b>:שם מתכון</b>
+    <br>
+{{r.NameRecipe}}
+<br>
+<br>
+<b>:קטגוריה</b>
+    <br>
+{{r.CategoryRecipe.CategoryName}} <img src="../../assets/{{r.CategoryRecipe.CategoryIcon}}" height="30" width="30"/>
+<br>
+<br>
+<b>:זמן הכנה</b>
+    <br>
+{{r.Time|Minit}}
+<br>
+<br>
+<b>:דרגת קושי</b>
+    <br>
+{{r.Difficulty | difficulty}}
+<br>
+<br>
+<b>:תאריך הוספת מתכון</b>
+    <br>
+{{r.DateAdd| date: 'dd/MM/yyyy'}}
+<br>
+<br>
+<b>:מצרכים</b>
+    <br>
+<ul>
+<p *ngFor="let currntr of r.Ingredients">🥄{{currntr}}</p>
+</ul>
+<br>
+<br>
+<b>:אופן הכנה</b>
+    <br>
+<ul>
+
+<p *ngFor="let currntr of r.Preparation"><input type="checkbox"  value="Bike">  {{currntr}}</p>
+</ul>
+<br>
+<br>
+<b>:בעל המתכון</b>
+    <br>
+{{r.UserName}}
+<br>
+<img height="300" width="300" src="../../assets/{{r.Image}}"/> 
+</body>
+
+
+

@@ -1,0 +1,24 @@
+body{ 
+    
+      margin-top: 50px;
+   }
+.frm
+{
+border: 5px inset rgb(247, 68, 68);
+width: 400px;
+text-align: center;
+margin-left:500px;
+
+}
+h1,p
+{
+    font-family: choco;
+    color: white;
+    text-align: center;
+}
+a{
+    color: rgb(247, 68, 68);
+    text-decoration: none;
+}
+a:hover{ color:white;}
+input{font-family: choco;}

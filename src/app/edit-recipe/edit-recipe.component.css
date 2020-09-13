@@ -1,0 +1,43 @@
+.formAdd
+{
+    font-size: larger;
+    /* background-color: rgb(253, 100, 100)  ; */
+    text-align: center;
+    font-family: choco;
+    /* background-image: url('../../assets/P1250749.jpg'); */
+   background-size: 100%;
+    background-repeat: no-repeat;
+}
+body,html
+{padding-top: 20px;
+   background-repeat: no-repeat;
+   background-size:cover;
+}
+b{
+    text-align: center;
+   font-family: choco;
+   font-size: larger;
+   color: white;
+   background-color:  rgb(247, 68, 68) ;
+}
+.bt
+{
+    background-color: white;
+    text-align: center;
+    font-family: choco;
+    font-size: larger;
+    color: black;
+    border:solid 5px rgb(253, 100, 100) ; 
+}
+p
+{
+    color:white;
+    font-family: choco;
+    text-align: center;
+    font-size: large;
+}
+.A
+{
+    direction: rtl;
+}
+

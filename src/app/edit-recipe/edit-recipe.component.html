@@ -1,0 +1,65 @@
+
+<body  class="formAdd"   style="margin-top: 50px;">
+
+        <!-- <p style="font-size: 25px;color: white; text-align: right; font-family:choco ;">{{u}}:משתמש נוכחי</p> -->
+        <b>:נא עדכן את המתכון {{r.NameRecipe}}</b>
+    <br>
+    <br>
+    <form [formGroup]="form">
+    <b>:קטגוריה</b>
+    
+    <br>
+    <select formControlName="category" [(ngModel)]="r.CategoryRecipe.CategoryName" (ngModelChange)="FindCategory()">
+        <option style="font-family: cursive;" *ngFor="let x of arrCategory">{{x.CategoryName}}</option>
+    </select>
+    <br>
+    <br>
+  
+    <b>:זמן הכנה בדקות</b>
+    
+    <br>
+    <input formControlName="time" [(ngModel)]="r.Time" type="text"  name="time"> 
+    <br>
+    <br>
+    <b>:דרגת קושי</b>
+    
+    <br>
+    <input  formControlName="diff" [(ngModel)]="r.Difficulty" type="text"   name="Difficulty">
+    <br>
+    <br>
+</form>
+
+    <b>:מצרכים</b>
+    <p>בעת מילוי תיבה תתוסף תיבה נוספת</p> 
+    <p style="font-size:20px ;">תיבה ריקה לא תשלח*</p> 
+    <br>
+    <div>
+       <div class="A" *ngFor="let x of r.Ingredients;let i=index; trackBy:trackByFn">
+           <input type="text"  [value]="x" [(ngModel)]="r.Ingredients[i]" (keyup)="addRowIngridience(i)"  ></div> 
+    </div>
+    <br>
+    <br>
+    <b>:הוראות הכנה</b>
+    <p>בעת מילוי תיבה תתוסף תיבה נוספת</p> 
+    <p style="font-size:20px ;">תיבה ריקה לא תשלח*</p> 
+    <br>
+    <div>
+        <div class="A"  *ngFor="let x of r.Preparation;let i=index;trackBy:trackByFn">
+            <input size=50 type="text"  [value]="x" [(ngModel)]="r.Preparation[i]"  (keyup)="addRowMaking(i)" >
+        </div>
+    </div>
+    <br>
+    <br>
+    
+    <b>:הוספת תמונה</b>
+    <br>
+     <input class="typeFile" [(ngModel)]="r.Image" type="file" style=" margin-left:650px;">
+     <br>
+    <h1 style="color: white;">?האם את/ה בטוח/ה</h1>
+    <h1 style="color: white;" *ngIf="v">אחד או יותר מהשדות שגויים...</h1>
+     <input class="bt" type="button" value="עדכן מתכון" (click)="editRecipe()">
+     <input class="bt" type="button" value="בטל שינויים" (click)="refresh()">
+    </body>
+
+
+

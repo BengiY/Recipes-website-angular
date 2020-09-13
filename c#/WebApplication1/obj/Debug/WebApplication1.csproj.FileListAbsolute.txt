@@ -1,0 +1,172 @@
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל בנג'י\angular חדש\less 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\יעל\angular\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\יעל\angular\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\יעל\angular\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\יעל\angular\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\יעל\angular\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\יעל\angular\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\יעל\angular\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\יעל\angular\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\יעל\angular\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Cors.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\יעל\angular\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\יעל\angular\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\csc.exe
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\csc.exe.config
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\csc.rsp
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\csi.exe
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\csi.rsp
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\vbc.exe
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\vbc.exe.config
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\vbc.rsp
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\WebApplication1.dll.config
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\WebApplication1.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\WebApplication1.pdb
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\Antlr3.Runtime.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\Newtonsoft.Json.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Cors.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Helpers.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Http.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Mvc.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Optimization.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Razor.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.WebPages.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\WebGrease.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Helpers.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Http.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Mvc.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Optimization.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Razor.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.WebPages.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\Newtonsoft.Json.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\יעל\ישן\angular project\c#\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\יעל\ישן\angular project\c#\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\יעל\ישן\angular project\c#\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\יעל\ישן\angular project\c#\WebApplication1\obj\Debug\WebApplication1.dll
+C:\יעל\ישן\angular project\c#\WebApplication1\obj\Debug\WebApplication1.pdb

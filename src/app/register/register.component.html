@@ -1,0 +1,44 @@
+<form [formGroup]="form2" (ngSubmit)="onSabmit(form2.value)"> 
+<body style="text-align: center;  margin-top: 50px;">
+    <div class="RecipeItem">
+        <!-- <div class="help" >
+            <h1>!❤️ שימו  </h1>
+            <ol >
+                <li>שדות המסומנים בכוכבית-שדות חובה !</li>
+                <li>סיסמא חייבת לכלול לפחות 3 תווים, ספרות בלבד</li>
+                <li>כתובת מייל חייבת להיות תקינה</li>
+                <p>לא תאפשר שליח ת הטופס ללא מילוי התנאים הנ"ל</p>
+            </ol>
+        </div> -->
+        <p >שדות המסומנים בכוכבית הינם שדות חובה</p>
+        <br>
+    <b>:הכנס שם משתמש</b>
+    <br>
+
+<input size=23  placeholder="שדה חובה" type="text" formControlName="userName"  [(ngModel)]="u.UserName" /><span style="color:white;font-size: 50px;">*</span>
+<br>
+<p *ngIf="uc">לא הוקש שם משתמש</p>
+<br>
+<b>:הכנס סיסמא</b>
+<br>
+<input type="button" #input value="👀"(click)="functiontochangetype()"><input type={{type}} formControlName="password"  [(ngModel)]="u.Password" placeholder="הקש 4 ספרות"/><span style="color:white;font-size: 50px;">*</span>
+<br>
+<p *ngIf="pc">סיסמא לא תקינה</p>
+<br>
+<b>:הכנס כתובת מייל</b>
+<br>
+<input size=23  type="email" formControlName="mail" placeholder="@-כלול תו"  [(ngModel)]="u.Email" /><span style="color:white;font-size: 50px;">*</span>
+<br>
+<p *ngIf="ec">כתובת מייל לא תקינה</p>
+<br>
+<b>:הכנס כתובת</b>
+<br>
+<input size=23  style="margin-right: 25px;" type="text" formControlName="adress" placeholder="לא חובה"  [(ngModel)]="u.Adress"/>
+<br>
+<br>
+<input  type="submit"  value="הקש להרשמה" (click)="AddUser()"/>
+</div>
+<br>
+<br>
+</body>
+</form>

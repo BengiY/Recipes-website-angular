@@ -1,0 +1,32 @@
+.formAdd
+{
+    font-size: larger;
+    /* background-color: rgb(253, 100, 100)  ; */
+    text-align: center;
+    font-family: choco;
+    margin-top: 50px;
+}
+
+b{
+    text-align: center;
+   font-family: choco;
+   font-size: larger;
+   color: white;
+   background-color:  rgb(247, 68, 68) ;
+}
+.bt
+{
+    background-color: wheat;
+    text-align: center;
+    font-family: choco;
+    font-size: larger;
+    color: black;
+    border:solid 5px rgb(253, 100, 100) ; 
+}
+p
+{
+    color:white;
+    font-family: choco;
+    text-align: center;
+    font-size: large;
+}

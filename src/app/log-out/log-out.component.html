@@ -1,0 +1,25 @@
+
+<body style="text-align: center;background-attachment:inherit;" >
+    <div class="RecipeItem">
+        <p *ngIf="flag" style="font-size: 25px;color: white; text-align: right; font-family:choco ;">{{u}}:משתמש נוכחי</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div >
+    <b *ngIf="flag" class="logu" >? האם את/ה בטוח/ה </b>
+    <b *ngIf="!flag" class="logu" >את/ה לא מחובר/ת</b>
+    </div>
+    <br>
+    <br>
+    <input *ngIf="flag" (click)="logoutFunc()" type="button" value="התנתק">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    </div>
+
+    </body>

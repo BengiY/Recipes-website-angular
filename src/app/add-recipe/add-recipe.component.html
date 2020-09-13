@@ -1,0 +1,98 @@
+<body  class="formAdd">
+   
+<div *ngIf="!flag">
+ <b  style="margin-top: 600px;font-size: 40px;">את/ה לא מחובר/ת</b>
+ <br>
+ <br>
+ <input class="bt" type="button" [routerLink]="['/login']" value="להתחברות">
+ <br>
+ <br>
+ <input height="100" width="100" class="bt" type="button" [routerLink]="['/register']" value=">להרשמה">
+
+</div>
+ <div  *ngIf="flag">
+    <form [formGroup]="add"> 
+    <p style="font-size: 25px;color: white; text-align: right; font-family:choco ;">{{u}}:משתמש נוכחי</p>
+    <br>
+
+    <br>
+    <br>
+    <b>:שם מתכון</b>
+
+<br>
+<input formControlName="fname" placeholder="שדה חובה,אותיות בלבד"  type="text" [(ngModel)]="recipeToAdd.NameRecipe" name="namerecipes"><span style="color:white;font-size: 30px;">*</span>
+<br>
+<br>
+<b>:קטגוריה</b>
+
+<br>
+<!-- <select [(ngModel)]="recipeToAdd.CategoryRecipe"  (change)="FindCategory()" >
+    <option style="font-family: cursive;" *ngFor="let x of arrCategory">{{x.CategoryName}}</option>
+</select> -->
+<select formControlName="category" [(ngModel)]="recipeToAdd.CategoryRecipe.CategoryName" (ngModelChange)="FindCategory()">
+    <option style="font-family: cursive;" *ngFor="let x of arrCategory">{{x.CategoryName}}</option>
+</select><span style="color:white;font-size: 30px;">*</span>
+<br>
+<br>
+<b>:זמן הכנה בדקות</b>
+
+<br>
+<input placeholder="ספרות בלבד" formControlName="time"   type="text" [(ngModel)]="recipeToAdd.Time" ><span style="color:white;font-size: 30px;">*</span>
+<br>
+<br>
+<b>:דרגת קושי</b>
+
+<br>
+<input formControlName="diff" placeholder="ספרות בלבד"    type="text" [(ngModel)]="recipeToAdd.Difficulty" ><span style="color:white;font-size: 30px;">*</span>
+<br>
+<br>
+</form>
+
+<!-- יש בעיה בעת הוספת אינפוט קטגוריה ונתוני הפרטים אחרי ההוספה -->
+<b>:מצרכים</b>
+<br>
+<p>בעת מילוי תיבה תתוסף תיבה נוספת</p> 
+<p style="font-size:20px ;">תיבה ריקה לא תשלח*</p> 
+<div>
+    <div  *ngFor="let x of recipeToAdd.Ingredients;let i=index;trackBy:trackByFn"> 
+    <input type="text"  [(ngModel)]="recipeToAdd.Ingredients[i]"  (keyup)="addRowIngridience(i)">
+    </div>
+</div>
+<br>
+<br>
+<b>:הוראות הכנה</b>
+
+<br>
+<p>בעת מילוי תיבה תתוסף תיבה נוספת</p> 
+<p style="font-size:20px ;">תיבה ריקה לא תשלח*</p> 
+<div>
+    <div   *ngFor="let x of recipeToAdd.Preparation;let i=index;trackBy:trackByFn" >
+<input  size="50" type="text"  [(ngModel)]="recipeToAdd.Preparation[i]" (keyup)="addRowMaking(i)">
+    </div>
+</div>
+<br>
+<br>
+<b>:הוספת תמונה</b>
+<br>
+ <input    type="file" [(ngModel)]="recipeToAdd.Image"  style=" margin-left:650px;">
+ <br>
+ <br>
+ <p *ngIf="v">אחד או יותר מהשדות שגויים...</p>
+ <input class="bt" type="submit"  value="הוסף מתכון" (click)="AddRecipe()">
+<br>
+<br>
+</div>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+

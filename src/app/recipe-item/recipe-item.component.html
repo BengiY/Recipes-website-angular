@@ -1,0 +1,18 @@
+<body >
+<div class="RecipeItem" style="background-image:url('../../assets/חתוך.jpg');color: white; background-repeat: no-repeat;background-size: cover;">
+    <b>{{myRecipeNow.NameRecipe}}</b>
+<h1>:זמן הכנה</h1>
+<h1>{{myRecipeNow.Time|Minit}}</h1>
+<h1>:דרגת קושי</h1>
+<h1>{{myRecipeNow.Difficulty|difficulty}}</h1>
+<img src="../../assets/{{myRecipeNow.Image}}" height="150" width="200"/>
+<br>
+<a *ngIf="flag1"  routerLink="/recipeDetails/{{myRecipeNow.NameRecipe}}" style="font-size: 20px;font-family: choco;color: white;">הקש להצגת נתוני מתכון</a>
+
+</div>
+</body>
+
+
+
+
+

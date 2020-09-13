@@ -1,0 +1,49 @@
+
+.mycls{
+    color:rgb(160, 61, 61);
+}
+.allC{
+    text-align: center;
+    font-size: large;
+    font-family: choco;
+}
+.homeNav
+{
+    text-align: right;
+    font-size: large;
+    font-family: choco;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 20px;
+    float: right;
+    font-family: choco;
+    position:sticky;
+    top:0;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: black;
+    background-color: rgb(247, 68, 68) ;
+}
+.navbar-brand
+{
+    font-size: 50px; 
+}
+.navbar-inverse {
+    background-color:rgb(99, 93, 93);
+    /* border-color: #080808; */
+}
+.navbar navbar-inverse
+{
+    position:sticky;
+    top:0;
+
+}
+.navbar{
+        margin-bottom: -20px;
+}
+
